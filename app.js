@@ -22,6 +22,12 @@ app.get("/home", (req, res) => {
 app.get("/yes", (req, res) => {
     res.render("yes.ejs",);
 });
+app.get("/letter", (req, res) => {
+    res.render("letter.ejs",);
+});
+app.get("/accept", (req, res) => {
+    res.render("accept.ejs",);
+});
 
 
 app.listen(5050, () => {
