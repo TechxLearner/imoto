@@ -16,13 +16,13 @@ body {
   background: linear-gradient(180deg, #000000 15%, #000000 100%);
 }
 
-.ishu {
+/* .ishu {
     font-size: calc(3.3rem + .6vw) !important;
     font-family: "Tangerine", cursive !important;
     font-weight: 700 !important;
     font-style: normal !important;
     color: #b71414 !important;
-}
+} */
 
 div:before,
 div:after {
