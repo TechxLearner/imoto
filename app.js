@@ -22,22 +22,7 @@ app.get("/HOME", (req, res) => {
     res.render("index.ejs");
 });
 
-// app.get("/", (req, res) => {
-//     res.render("sorry.ejs",);
-// });
 
-// app.get("/home", (req, res) => {
-//     res.render("sorry.ejs",);
-// });
-
-
-// app.get("/surprise", (req, res) => {
-//     res.render("surprise.ejs",);
-// });
-
-// app.get("/final", (req, res) => {
-//     res.render("final.ejs",);
-// });
 
 
 app.listen(5050, () => {
