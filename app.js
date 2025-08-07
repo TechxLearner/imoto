@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
     res.render("index.ejs");
 });
 
-app.get("/HOME", (req, res) => {
+app.get("/home", (req, res) => {
     res.render("index.ejs");
 });
 
