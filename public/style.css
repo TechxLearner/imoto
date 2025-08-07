@@ -6,6 +6,40 @@ body {
 @media (min-width: 300px) and (max-width: 1000px) {
 
 
+
+
+    .imp-first-flex-container {
+                display: block !important;
+                justify-content: center !important;
+            }
+
+    .imp-second-flex-container {
+                display: block !important;
+                justify-content: center !important;
+            }
+
+
+    .imp-third-flex-container {
+                display: block !important;
+                justify-content: center !important;
+            }
+
+
+    .imp-fourth-flex-container {
+                display: block !important;
+                justify-content: center !important;
+            }
+
+    .imp-Sixth-flex-container {
+                display: block !important;
+                justify-content: center !important;
+            }
+    
+
+
+
+
+    
     .mot-first-flex-container {
         display: block !important;
         justify-content: center !important;
@@ -46,3 +80,4 @@ body {
 
 
 }
+
